@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**legion-HEART/legion-HEART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+【新手上路】一名探索者的自我介绍与学习展望
+关于我：一个代码与文字世界的漫游者
+大家好！我是 legion-HEART，一名对技术和创造充满无限好奇心的学习者。
 
-Here are some ideas to get you started:
+我的兴趣非常广泛，像一片繁星点点的夜空。我痴迷于编程（目前主要探索 Python 和 Web 开发的世界），享受从零构建一个项目的成就感；我也热爱阅读和写作，认为清晰的代码和优美的文字是同一枚硬币的两面——都是逻辑与创造力的结晶。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+一段有趣的记忆：我记得第一次成功让代码操控硬件，让一排 LED 灯像流水一样闪烁起来时，那种触摸到虚拟与现实边界的感觉，无比奇妙。那一刻让我坚信，技术是魔法在现代社会的另一种表现形式。
+
+很高兴能在博客园这个技术氛围浓厚的社区与大家相遇，希望以后能多多交流，共同进步！
+
+学习教材后，我想弄懂的5个问题
+    学概念和做项目，哪个更重要？
+    怎么知道一个技术“过时没”？
+    为了开发快而牺牲性能，值不值？
+    程序出错是该立马崩溃还是凑合运行？
+    那么多框架，我该怎么选？
+
+我想收获什么？
+    扎实的技术基础
+    写出让人看懂的文章
+    养成总结笔记的习惯
+    认识一些一起学习的朋友
+
+请多多指教！
